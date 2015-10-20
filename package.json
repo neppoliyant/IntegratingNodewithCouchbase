@@ -1,0 +1,30 @@
+{
+  "name": "nodeCouchbase",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "express": "3.5.0",
+    "socket.io": "~0.9.16",
+    "fs-extra": "~0.6.4",
+    "underscore": "~1.5.2",
+    "winston": "~0.7.2",
+    "winston-filerotatedate": ">= 0.0.0",
+    "ejs": "~0.7.1",
+    "jade": "~1.1.4",
+    "asset-rack": "~2.2.2",
+    "request": "~2.31.0",
+    "passport": ">= 0.0.0",
+    "passport-oauth": ">= 0.0.0",
+    "async": ">=0.0.0",
+    "restler": ">=0.0.0",
+    "form-data": ">=0.0.0",
+    "nodemailer": ">=1.0.0",
+    "method-override": ">1.0.0",
+    "cors": ">0.0.0",
+    "couchbase": ">=0.0.0",
+    "swagger-node-express": "~2.0"
+  }
+}

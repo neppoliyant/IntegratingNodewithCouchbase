@@ -1,0 +1,83 @@
+2015-10-17T22:27:46.567Z - audit: resourceRequest=localhost/rest/user/Back_Week_1, protocol=http, httpMethod=GET, deviceType=5.0 (Macintosh; Intel Mac OS X 10_10_0) AppleWebKit, deviceModel=537.36 (KHTML, like Gecko) Chrome, osVersion=45.0.2454.101 Safari, clientVersion=undefined, clientOs=Mozilla, deviceId=null, userId=Back_Week_1, responseData[[object Object]]
+2015-10-17T22:29:34.777Z - audit: resourceRequest=localhost/rest/user/Back_Week_1, protocol=http, httpMethod=GET, deviceType=5.0 (Macintosh; Intel Mac OS X 10_10_0) AppleWebKit, deviceModel=537.36 (KHTML, like Gecko) Chrome, osVersion=45.0.2454.101 Safari, clientVersion=undefined, clientOs=Mozilla, deviceId=null, userId=Back_Week_1, responseData[[object Object]]
+2015-10-17T22:29:47.404Z - audit: resourceRequest=localhost/rest/user/test1, protocol=http, httpMethod=PUT, deviceType=5.0 (Macintosh; Intel Mac OS X 10_10_0) AppleWebKit, deviceModel=537.36 (KHTML, like Gecko) Chrome, osVersion=45.0.2454.101 Safari, clientVersion=undefined, clientOs=Mozilla, deviceId=null, userId=test1, responseData[Success]
+2015-10-17T22:29:55.373Z - audit: resourceRequest=localhost/rest/user/test1, protocol=http, httpMethod=GET, deviceType=5.0 (Macintosh; Intel Mac OS X 10_10_0) AppleWebKit, deviceModel=537.36 (KHTML, like Gecko) Chrome, osVersion=45.0.2454.101 Safari, clientVersion=undefined, clientOs=Mozilla, deviceId=null, userId=test1, responseData[[object Object]]
+2015-10-17T22:30:07.152Z - audit: resourceRequest=localhost/rest/user/test1, protocol=http, httpMethod=POST, deviceType=5.0 (Macintosh; Intel Mac OS X 10_10_0) AppleWebKit, deviceModel=537.36 (KHTML, like Gecko) Chrome, osVersion=45.0.2454.101 Safari, clientVersion=undefined, clientOs=Mozilla, deviceId=null, userId=test1, responseData[Success]
+2015-10-17T22:30:13.129Z - audit: resourceRequest=localhost/rest/user/test1, protocol=http, httpMethod=DELETE, deviceType=5.0 (Macintosh; Intel Mac OS X 10_10_0) AppleWebKit, deviceModel=537.36 (KHTML, like Gecko) Chrome, osVersion=45.0.2454.101 Safari, clientVersion=undefined, clientOs=Mozilla, deviceId=null, userId=test1, responseData[Delete Successfully]
+2015-10-17T22:30:16.403Z - audit: resourceRequest=localhost/rest/user/test1, protocol=http, httpMethod=GET, deviceType=5.0 (Macintosh; Intel Mac OS X 10_10_0) AppleWebKit, deviceModel=537.36 (KHTML, like Gecko) Chrome, osVersion=45.0.2454.101 Safari, clientVersion=undefined, clientOs=Mozilla, deviceId=null, userId=test1, responseData[CouchbaseError: The key does not exist on the server]
+2015-10-17T22:32:37.038Z - audit: resourceRequest=localhost/rest/user/test, protocol=http, httpMethod=DELETE, deviceType=5.0 (Macintosh; Intel Mac OS X 10_10_0) AppleWebKit, deviceModel=537.36 (KHTML, like Gecko) Chrome, osVersion=45.0.2454.101 Safari, clientVersion=undefined, clientOs=Mozilla, deviceId=null, userId=test, responseData[CouchbaseError: The key does not exist on the server]
+2015-10-20T02:52:43.478Z - audit: resourceRequest=localhost/rest/user/test, protocol=http, httpMethod=PUT, deviceType=5.0 (Macintosh; Intel Mac OS X 10_10_0) AppleWebKit, deviceModel=537.36 (KHTML, like Gecko) Chrome, osVersion=45.0.2454.101 Safari, clientVersion=undefined, clientOs=Mozilla, deviceId=null, userId=test, responseData[Success]
+2015-10-20T02:53:01.801Z - audit: resourceRequest=localhost/rest/user/test, protocol=http, httpMethod=DELETE, deviceType=5.0 (Macintosh; Intel Mac OS X 10_10_0) AppleWebKit, deviceModel=537.36 (KHTML, like Gecko) Chrome, osVersion=45.0.2454.101 Safari, clientVersion=undefined, clientOs=Mozilla, deviceId=null, userId=test, responseData[Delete Successfully]
+2015-10-20T03:17:25.347Z - audit: resourceRequest=localhost/rest/user/test, protocol=http, httpMethod=PUT, deviceType=5.0 (Macintosh; Intel Mac OS X 10_10_0) AppleWebKit, deviceModel=537.36 (KHTML, like Gecko) Chrome, osVersion=45.0.2454.101 Safari, clientVersion=undefined, clientOs=Mozilla, deviceId=null, userId=test, responseData[Success]
+2015-10-20T03:18:00.235Z - audit: resourceRequest=localhost/rest/user/test1, protocol=http, httpMethod=PUT, deviceType=5.0 (Macintosh; Intel Mac OS X 10_10_0) AppleWebKit, deviceModel=537.36 (KHTML, like Gecko) Chrome, osVersion=45.0.2454.101 Safari, clientVersion=undefined, clientOs=Mozilla, deviceId=null, userId=test1, responseData[Success]
+2015-10-20T03:18:09.565Z - audit: resourceRequest=localhost/rest/user/test1, protocol=http, httpMethod=PUT, deviceType=5.0 (Macintosh; Intel Mac OS X 10_10_0) AppleWebKit, deviceModel=537.36 (KHTML, like Gecko) Chrome, osVersion=45.0.2454.101 Safari, clientVersion=undefined, clientOs=Mozilla, deviceId=null, userId=test1, responseData[Success]
+2015-10-20T03:25:43.354Z - audit: resourceRequest=localhost/rest/user/%7Bid%7D, protocol=http, httpMethod=GET, deviceType=5.0 (Macintosh; Intel Mac OS X 10_10_0) AppleWebKit, deviceModel=537.36 (KHTML, like Gecko) Chrome, osVersion=45.0.2454.101 Safari, clientVersion=undefined, clientOs=Mozilla, deviceId=null, userId={id}, responseData[CouchbaseError: The key does not exist on the server]
+2015-10-20T03:27:14.401Z - audit: resourceRequest=localhost/rest/users, protocol=http, httpMethod=GET, deviceType=5.0 (Macintosh; Intel Mac OS X 10_10_0) AppleWebKit, deviceModel=537.36 (KHTML, like Gecko) Chrome, osVersion=45.0.2454.101 Safari, clientVersion=undefined, clientOs=Mozilla, deviceId=null, userId=[object Object], responseData[Fetched Successfully]
+2015-10-20T03:27:55.035Z - audit: resourceRequest=localhost/rest/user/test1, protocol=http, httpMethod=PUT, deviceType=5.0 (Macintosh; Intel Mac OS X 10_10_0) AppleWebKit, deviceModel=537.36 (KHTML, like Gecko) Chrome, osVersion=45.0.2454.101 Safari, clientVersion=undefined, clientOs=Mozilla, deviceId=null, userId=test1, responseData[parameter type is missing.]
+2015-10-20T03:33:55.235Z - audit: resourceRequest=localhost/rest/documents, protocol=http, httpMethod=GET, deviceType=5.0 (Macintosh; Intel Mac OS X 10_10_0) AppleWebKit, deviceModel=537.36 (KHTML, like Gecko) Chrome, osVersion=45.0.2454.101 Safari, clientVersion=undefined, clientOs=Mozilla, deviceId=null, userId=[object Object], responseData[Fetched Successfully]
+2015-10-20T03:36:26.071Z - error: uncaughtException: Unexpected token o 
+{ date: 'Tue Oct 20 2015 09:06:26 GMT+0530 (IST)',
+  process: 
+   { pid: 53297,
+     uid: 0,
+     gid: 0,
+     cwd: '/Users/nthang003c/node/nodeCouchbase',
+     execPath: '/usr/local/bin/node',
+     version: 'v0.12.0',
+     argv: [ 'node', '/Users/nthang003c/node/nodeCouchbase/server' ],
+     memoryUsage: { rss: 103628800, heapTotal: 81349120, heapUsed: 53762968 } },
+  os: 
+   { loadavg: [ 2.31396484375, 2.2802734375, 2.22314453125 ],
+     uptime: 1856212 },
+  trace: 
+   [ { column: null,
+       file: null,
+       function: 'Object.parse',
+       line: null,
+       method: 'parse',
+       native: true },
+     { column: 30,
+       file: '/Users/nthang003c/node/nodeCouchbase/server/controller/userController.js',
+       function: null,
+       line: 106,
+       method: null,
+       native: false },
+     { column: 9,
+       file: '/Users/nthang003c/node/nodeCouchbase/server/dao/db.js',
+       function: null,
+       line: 60,
+       method: null,
+       native: false },
+     { column: 7,
+       file: '/Users/nthang003c/node/nodeCouchbase/node_modules/couchbase/lib/bucket.js',
+       function: '',
+       line: 550,
+       method: null,
+       native: false },
+     { column: 17,
+       file: 'events.js',
+       function: 'ViewQueryResponse.emit',
+       line: 110,
+       method: 'emit',
+       native: false },
+     { column: 17,
+       file: '/Users/nthang003c/node/nodeCouchbase/node_modules/couchbase/lib/bucket.js',
+       function: null,
+       line: 505,
+       method: null,
+       native: false } ],
+  stack: 
+   [ 'SyntaxError: Unexpected token o',
+     '    at Object.parse (native)',
+     '    at /Users/nthang003c/node/nodeCouchbase/server/controller/userController.js:106:30',
+     '    at /Users/nthang003c/node/nodeCouchbase/server/dao/db.js:60:9',
+     '    at ViewQueryResponse.<anonymous> (/Users/nthang003c/node/nodeCouchbase/node_modules/couchbase/lib/bucket.js:550:7)',
+     '    at ViewQueryResponse.emit (events.js:110:17)',
+     '    at /Users/nthang003c/node/nodeCouchbase/node_modules/couchbase/lib/bucket.js:505:17' ] }
+2015-10-20T03:37:34.694Z - audit: resourceRequest=localhost/rest/documents, protocol=http, httpMethod=GET, deviceType=5.0 (Macintosh; Intel Mac OS X 10_10_0) AppleWebKit, deviceModel=537.36 (KHTML, like Gecko) Chrome, osVersion=45.0.2454.101 Safari, clientVersion=undefined, clientOs=Mozilla, deviceId=null, userId=[object Object], responseData[Fetched Successfully]
+2015-10-20T03:38:25.572Z - audit: resourceRequest=localhost/rest/documents, protocol=http, httpMethod=GET, deviceType=5.0 (Macintosh; Intel Mac OS X 10_10_0) AppleWebKit, deviceModel=537.36 (KHTML, like Gecko) Chrome, osVersion=45.0.2454.101 Safari, clientVersion=undefined, clientOs=Mozilla, deviceId=null, userId=[object Object], responseData[CouchbaseError: Operation not supported]
+2015-10-20T03:39:58.286Z - audit: resourceRequest=localhost/rest/documents, protocol=http, httpMethod=GET, deviceType=5.0 (Macintosh; Intel Mac OS X 10_10_0) AppleWebKit, deviceModel=537.36 (KHTML, like Gecko) Chrome, osVersion=45.0.2454.101 Safari, clientVersion=undefined, clientOs=Mozilla, deviceId=null, userId=[object Object], responseData[CouchbaseError: Operation not supported]
+2015-10-20T03:40:01.562Z - audit: resourceRequest=localhost/rest/users, protocol=http, httpMethod=GET, deviceType=5.0 (Macintosh; Intel Mac OS X 10_10_0) AppleWebKit, deviceModel=537.36 (KHTML, like Gecko) Chrome, osVersion=45.0.2454.101 Safari, clientVersion=undefined, clientOs=Mozilla, deviceId=null, userId=[object Object], responseData[Fetched Successfully]
+2015-10-20T03:40:12.783Z - audit: resourceRequest=localhost/rest/user/test2, protocol=http, httpMethod=PUT, deviceType=5.0 (Macintosh; Intel Mac OS X 10_10_0) AppleWebKit, deviceModel=537.36 (KHTML, like Gecko) Chrome, osVersion=45.0.2454.101 Safari, clientVersion=undefined, clientOs=Mozilla, deviceId=null, userId=test2, responseData[Success]
+2015-10-20T03:40:16.086Z - audit: resourceRequest=localhost/rest/users, protocol=http, httpMethod=GET, deviceType=5.0 (Macintosh; Intel Mac OS X 10_10_0) AppleWebKit, deviceModel=537.36 (KHTML, like Gecko) Chrome, osVersion=45.0.2454.101 Safari, clientVersion=undefined, clientOs=Mozilla, deviceId=null, userId=[object Object], responseData[Fetched Successfully]
+2015-10-20T03:40:18.951Z - audit: resourceRequest=localhost/rest/users, protocol=http, httpMethod=GET, deviceType=5.0 (Macintosh; Intel Mac OS X 10_10_0) AppleWebKit, deviceModel=537.36 (KHTML, like Gecko) Chrome, osVersion=45.0.2454.101 Safari, clientVersion=undefined, clientOs=Mozilla, deviceId=null, userId=[object Object], responseData[Fetched Successfully]
